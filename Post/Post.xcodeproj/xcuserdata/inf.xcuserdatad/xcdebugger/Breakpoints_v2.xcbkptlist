@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "ED112EAA-6498-4EEF-879E-32BB287C500F"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9B659486-EE81-4549-BEC4-27519671FAA6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PostUITests/PostUITests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "postItemView()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9B659486-EE81-4549-BEC4-27519671FAA6 - 2587a92a2554dbee"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PostUITests.PostUITests.navigateToDetail() -&gt; ()"
+                  moduleName = "PostUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/inf/post-swiftui/Post/PostUITests/PostUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "9B659486-EE81-4549-BEC4-27519671FAA6 - 2587a92a2554dbee"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PostUITests.PostUITests.navigateToDetail() -&gt; ()"
+                  moduleName = "PostUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/inf/post-swiftui/Post/PostUITests/PostUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "9B659486-EE81-4549-BEC4-27519671FAA6 - 2587a92a2554dbee"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PostUITests.PostUITests.navigateToDetail() -&gt; ()"
+                  moduleName = "PostUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/inf/post-swiftui/Post/PostUITests/PostUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "9B659486-EE81-4549-BEC4-27519671FAA6 - 2587a92a2554dbb1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PostUITests.PostUITests.navigateToDetail() -&gt; ()"
+                  moduleName = "PostUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/inf/post-swiftui/Post/PostUITests/PostUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "9B659486-EE81-4549-BEC4-27519671FAA6 - 8112a26a223dec71"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PostUITests.PostUITests.postItemView() -&gt; ()"
+                  moduleName = "PostUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/inf/post-swiftui/Post/PostUITests/PostUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E5E55F6F-9637-4E61-8006-0E8C46D65503"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Post/Presentation/PostView/PostViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "94"
+            endingLineNumber = "94"
+            landmarkName = "setupOfflineData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
