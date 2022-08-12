@@ -1,7 +1,7 @@
 
 # Post-SwiftUI
 
-This project for learn about ios and all stuff of apple
+This project for challange
 
 ## Authors
 
